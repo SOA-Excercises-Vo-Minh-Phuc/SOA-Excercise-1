@@ -19,4 +19,7 @@
   
 
 ![Alt text](https://github.com/SOA-Excercises-Vo-Minh-Phuc/SOA-Excercise-1/blob/master/1.png)
-
+![Alt text](https://github.com/SOA-Excercises-Vo-Minh-Phuc/SOA-Excercise-1/blob/master/2.png)
+![Alt text](https://github.com/SOA-Excercises-Vo-Minh-Phuc/SOA-Excercise-1/blob/master/3.png)
+![Alt text](https://github.com/SOA-Excercises-Vo-Minh-Phuc/SOA-Excercise-1/blob/master/4.png)
+![Alt text](https://github.com/SOA-Excercises-Vo-Minh-Phuc/SOA-Excercise-1/blob/master/5.png)
