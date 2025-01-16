@@ -17,5 +17,6 @@
 - Cung cấp các chức năng thông qua giao thức SOAP để phục vụ yêu cầu từ ứng dụng Client.
 - Phát triển ứng dụng giao diện người dùng (UI), cho phép người dùng cuối gửi yêu cầu đến dịch vụ Web Service và hiển thị kết quả nhận được.
   
-https://github.com/SOA-Excercises-Vo-Minh-Phuc/SOA-Excercise-1/blob/master/1.png
-![Alt text](/SOA-Excercises-Vo-Minh-Phuc/SOA-Excercise-1/blob/master/1.png)
+
+![Alt text](https://github.com/SOA-Excercises-Vo-Minh-Phuc/SOA-Excercise-1/blob/master/1.png)
+
