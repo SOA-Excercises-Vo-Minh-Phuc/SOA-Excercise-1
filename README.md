@@ -1,7 +1,8 @@
 
-# MÔN Kiến trúc phần mềm hướng dịch vụ (25D1INF50902201)
-
+# Môn Kiến trúc phần mềm hướng dịch vụ (25D1INF50902201)
 ## Excercise 1
+
+
 ### Mô tả các kiến thức đã áp dụng
 **SOAP và Web Service**
   - Triển khai SOAP, cung cấp các chức năng xử lý và lấy dữ liệu (4 chức năng như yêu cầu)
@@ -16,3 +17,5 @@
 - Cung cấp các chức năng thông qua giao thức SOAP để phục vụ yêu cầu từ ứng dụng Client.
 - Phát triển ứng dụng giao diện người dùng (UI), cho phép người dùng cuối gửi yêu cầu đến dịch vụ Web Service và hiển thị kết quả nhận được.
   
+https://github.com/SOA-Excercises-Vo-Minh-Phuc/SOA-Excercise-1/blob/master/1.png
+![Alt text](/SOA-Excercises-Vo-Minh-Phuc/SOA-Excercise-1/blob/master/1.png)
